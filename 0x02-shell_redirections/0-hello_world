@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 0-hello_world > ls-output.txt
+echo "Hello, World" > ls-output.txt
